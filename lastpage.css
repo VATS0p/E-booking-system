@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    background: #372BC2;
+    
+
+}
+nav{
+    background-color: rgb(35, 32, 32);
+    padding:20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding:15px;
+}
+nav a:hover{
+    background-color: rgb(253, 253, 250);
+    color: black;
+    padding:15px;
+}
+.yo{
+    float: right;
+    padding: 0px 20px;}
+.whitebox{
+    position: absolute;
+    width: 903px;
+    height: 531px;
+    left: 328px;
+    top: 143px;
+    background: #FFFFFF;
+    mix-blend-mode: hard-light;
+    border-radius: 100px;
+}
+.tick{
+    position: absolute;
+    width: 360px;
+    height: 554px;
+    left: 303px;
+    top: -270px;
+
+}
+.thankyou{
+    position: absolute;
+    width: 453px;
+    height: 103px;
+    left: 246px;
+    top: 146px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 85px;
+    line-height: 103px;
+    color: #000000;
+}
+.th2{
+    position: absolute;
+    width: 986px;
+    height: 87px;
+    left: -33px;
+    top: 258px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    text-align: center;
+    color: #000000;
+}
+.b1{
+    position: absolute;
+    width: 391px;
+    height: 68px;
+    left: 253px;
+    top: 391px;
+    background: #372BC2;
+    border-radius: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 37px;
+    line-height: 59px;
+    text-align: center;
+    color: #FFFFFF;
+    border : none;
+}
+.home{
+    position: absolute;
+    width: 329px;
+    height: 56px;
+    left: 285px;
+    top: 466px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 56px;
+    text-align: center;
+    color: #4220eb;
+    text-decoration: none;
+    
+}

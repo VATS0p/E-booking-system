@@ -1,0 +1,67 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url('bg1.jpg');
+    position: absolute;
+    width: 70%;
+    height: 100vh;
+    left: 0px;
+    bottom: 0px;
+    background-repeat: no-repeat;
+    
+  }
+.wel{
+    position: absolute;
+    width: 483px;
+    height: 43px;
+    left: 956px;
+    top: 335px;
+    font-family: 'Josefin Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+    text-align: center;
+    color: #609D9F;
+}
+.one{
+    position: absolute;
+    width: 485px;
+    height: 128px;
+    left: 954px;
+    top: 407px;
+
+    font-family: 'Josefin Slab';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+
+    color: #000000;
+}
+.click{
+    cursor: pointer;
+    position: absolute;
+    width: 267px;
+    height: 46px;
+    left: 1064px;
+    top: 592px;
+    font-family: 'Josefin Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    color: white;
+    background: #81C8BC;
+    border-radius: 25px;
+}
+
+.logo{
+    position: absolute;
+    left: 978px;
+    top: -33px;  
+}
